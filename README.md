@@ -1,6 +1,6 @@
 # RE2 Background Enhancer
 
-<div align="center">
+<div align="left">
 
 <img src="images/RE2_Logo.jpg" alt="Resident Evil 2 Logo" width="300">
 
@@ -19,13 +19,7 @@
 
 ## Story
 
-<div align="center">
-
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="30%" align="left" valign="top">
-
-</div>
+<div align="left">
 
 ---
 
@@ -66,9 +60,9 @@
 
 ### Before vs After Comparisons
 
-<div align="center">
+<div align="left">
 
-<div align="center">
+<div align="left">
 
 #### Resident evil 2 - Classic Backgrounds | Enhanced in the right and original in the left
 
@@ -294,16 +288,14 @@ Prerendered backgrounds were a hallmark of 1990s gaming, especially in PS1-era t
 
 <!-- Claire's character model moved here to avoid layout mismatch -->
 
-<div align="center">
-
-**Claire Redfield**
+<div align="left">
 *The determined college student searching for her brother*
 
 <img src="images/Claire_Redfield.png" alt="Claire Redfield" width="160">
 
 </div>
 
-<div align="center">
+<div align="left">
 
 **Made with ❤️ for the retro gaming community**
 
