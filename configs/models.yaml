@@ -1,0 +1,5 @@
+esrgan:
+  model_name: "RealESRGAN_x4plus"
+  weights_path: "models/RealESRGAN_x4plus.pth"
+  tile_size: 256
+  scale: 4

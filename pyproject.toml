@@ -1,0 +1,30 @@
+[tool.poetry]
+name = "re2-bg-enhancer"
+version = "0.1.0"
+description = "Background enhancement pipeline based on Real-ESRGAN models"
+authors = ["Mohamed Ifqir <mohamedkenedy17@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+torch = "^2.0"
+torchvision = "^0.15"
+typer = "^0.23.0" 
+realesrgan = "^0.3.0"
+basicsr = "^1.4.2"
+opencv-python = "^4.8"
+numpy = "^1.24"
+pyyaml = "^6.0"
+rarfile = "^4.0"
+matplotlib = "^3.7"
+
+[[tool.poetry.packages]]
+include = "src"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.0"
+black = "^24.0"
+ruff = "^0.0"
+mypy = "^1.10"
+
+[tool.poetry.scripts]
+res-enhance = "src.cli:main"
