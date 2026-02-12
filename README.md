@@ -21,9 +21,32 @@
 
 <div align="left">
 
----
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="30%" align="left" valign="top">
 
-## Features
+<img src="images/Leon_kennedy.png" alt="Leon Kennedy" width="150">
+
+**Leon S. Kennedy**  
+*The rookie cop on his first day*
+
+</td>
+<td width="70%" align="left" valign="top">
+
+## Overview
+
+**Background Image Enhancer** brings classic prerendered backgrounds from PS1 games and retro titles back to life with modern AI enhancement techniques. 
+
+Using Real-ESRGAN's state-of-the-art upscaling technology combined with custom atmospheric effects, transform retro game backgrounds into stunning, high-resolution masterpieces that capture the nostalgic atmosphere of classic gaming.
+
+Whether you're a retro gaming enthusiast, content creator, or want to relive the golden age of gaming with enhanced visuals, this tool delivers professional-grade results with an intuitive command-line interface.
+
+</td>
+</table>
+
+</div>
+
+---
 
 ### Core Enhancement Pipeline
 
@@ -289,6 +312,8 @@ Prerendered backgrounds were a hallmark of 1990s gaming, especially in PS1-era t
 <!-- Claire's character model moved here to avoid layout mismatch -->
 
 <div align="left">
+
+**Claire Redfield**  
 *The determined college student searching for her brother*
 
 <img src="images/Claire_Redfield.png" alt="Claire Redfield" width="160">
