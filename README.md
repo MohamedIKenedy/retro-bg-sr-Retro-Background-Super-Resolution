@@ -1,4 +1,4 @@
-# RE2 Background Enhancer
+# Pre-rendered Backgrounds and FMVs Enhancer
 
 <div align="left">
 
