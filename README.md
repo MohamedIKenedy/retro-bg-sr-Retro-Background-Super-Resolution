@@ -2,7 +2,7 @@
 
 <div align="left">
 
-<img src="images/RE2_Logo.jpg" alt="Resident Evil 2 Logo" width="300">
+<img src="images/thumbnail.png" alt="Project banner" width="300">
 
 [![Real-ESRGAN](https://img.shields.io/badge/Real--ESRGAN-4x%20Upscaling-blue?style=for-the-badge)](https://github.com/xinntao/Real-ESRGAN)
 [![Python](https://img.shields.io/badge/Python-3.10+-green?style=for-the-badge)](https://python.org)
