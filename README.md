@@ -11,7 +11,7 @@
 
 *Enhance prerendered backgrounds from PS1 games and retro titles with cutting-edge AI upscaling and atmospheric effects*
 
-[Quick Start](#installation) • [Features](#features) • [Gallery](#gallery)
+[Quick Start](#installation) • [Features](#features) • [Gallery](#gallery) • [Blog Post](https://medifqir.42web.io/blog-details.html?slug=retro-bg-sr) • [YouTube Video](https://www.youtube.com/watch?v=XKbkMM7_tfE)
 
 </div>
 
